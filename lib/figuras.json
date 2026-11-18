@@ -1,0 +1,26 @@
+{
+  "entrada": {
+    "width": 843,
+    "height": 1276
+  },
+  "portal": {
+    "width": 877,
+    "height": 1320
+  },
+  "pilar-1": {
+    "width": 900,
+    "height": 1163
+  },
+  "pilar-2": {
+    "width": 877,
+    "height": 1628
+  },
+  "pilar-3": {
+    "width": 867,
+    "height": 1584
+  },
+  "pilar-4": {
+    "width": 843,
+    "height": 1672
+  }
+}

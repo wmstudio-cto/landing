@@ -1,0 +1,20 @@
+{
+  "name": "whole-models-herramientas",
+  "private": true,
+  "description": "Herramientas locales para preparar imágenes y piezas de vídeo. No hacen falta para desplegar el sitio.",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio remotion/index.ts",
+    "og": "remotion still remotion/index.ts OgImage ../public/og.jpg --frame=59 --image-format=jpeg --overwrite"
+  },
+  "dependencies": {
+    "@imgly/background-removal-node": "^1.4.5",
+    "@remotion/cli": "^4.0.543",
+    "@remotion/google-fonts": "^4.0.543",
+    "potrace": "^2.1.8",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.543",
+    "sharp": "^0.35.5"
+  }
+}
